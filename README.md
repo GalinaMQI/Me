@@ -10,4 +10,4 @@
 
 theme: jekyll-theme-minimal
 
-*remote_theme:jekyll-theme-Midnight
+remote_theme:jekyll-theme-Midnight
